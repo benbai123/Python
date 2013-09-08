@@ -1,0 +1,3 @@
+content from test.txt: this is test content
+second line
+third line
